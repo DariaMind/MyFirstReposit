@@ -18,3 +18,5 @@ logiЛоги - все commit
 git log
 
 git log --pretty=oneline
+
+Новая строка
