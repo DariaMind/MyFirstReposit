@@ -20,3 +20,8 @@ git log
 git log --pretty=oneline
 
 Новая строка
+
+добавление ветки
+git branch dz (название)
+git checkout dz - перейти в ветку дз
+git checkout -b dz - сиздание и переход в новую ветку
