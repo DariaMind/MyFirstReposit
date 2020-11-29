@@ -32,3 +32,10 @@ git merge dz (при этом были в ветке мастер)
 
 git branch -D dz - удалили ветку дз
 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DariaMind/MyFirstReposit.git
+git push -u origin main
+
