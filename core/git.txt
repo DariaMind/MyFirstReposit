@@ -1,0 +1,20 @@
+git config --global user.name "Daria Mi"
+git config --global user.email "mindak.da@gmail.com"
+
+инициализация git
+
+git init
+
+статус
+git status
+
+добавляет файлы и директории
+git add index.php - добавить файл
+git add . - добавляет все существующие файлы и папки в git
+
+git commit "Fitst commit"
+
+logiЛоги - все commit
+git log
+
+git log --pretty=oneline
