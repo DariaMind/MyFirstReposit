@@ -25,3 +25,10 @@ git log --pretty=oneline
 git branch dz (название)
 git checkout dz - перейти в ветку дз
 git checkout -b dz - сиздание и переход в новую ветку
+
+
+обьеденить ветки 
+git merge dz (при этом были в ветке мастер)
+
+git branch -D dz - удалили ветку дз
+
